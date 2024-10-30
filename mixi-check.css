@@ -1,0 +1,15 @@
+.sharing li a.mixi-check-button,
+.sharing-hidden li a.mixi-check-button {
+	padding: 0;
+}
+
+.sharing a.mixi-check-button img,
+.sharing-hidden a.mixi-check-button img {
+	padding: 0;
+}
+
+.sharing a.share-mixi-check,
+.sharing-hidden a.share-mixi-check {
+	background: url("images/mixi-check.gif") no-repeat scroll left center transparent;
+}
+

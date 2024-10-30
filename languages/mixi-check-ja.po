@@ -1,0 +1,78 @@
+# Translation of the WordPress plugin mixi Check alpha by nemooon.
+# Copyright (C) 2010 nemooon
+# This file is distributed under the same license as the mixi Check package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mixi Check alpha\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/mixi-check\n"
+"POT-Creation-Date: 2010-10-03 10:57+0000\n"
+"PO-Revision-Date: 2011-06-28 13:47+0900\n"
+"Last-Translator: Keisuke Nemoto <nemooon@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  plugin.pot (mixi Check alpha)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: sharing-sources.php:22
+msgid "mixi Check"
+msgstr "mixiチェック"
+
+msgid "Click to share on mixi Check"
+msgstr "クリックして mixiチェック で共有"
+
+#: sharing-sources.php:83
+msgid "button-1"
+msgstr "ボタン１"
+
+#: sharing-sources.php:84
+msgid "button-2"
+msgstr "ボタン２"
+
+#: sharing-sources.php:85
+msgid "button-3"
+msgstr "ボタン３"
+
+#: sharing-sources.php:86
+msgid "button-4"
+msgstr "ボタン４"
+
+#: sharing-sources.php:87
+msgid "button-5"
+msgstr "ボタン５"
+
+msgid "Button"
+msgstr "ボタン"
+
+msgid "OGP meta to output"
+msgstr "OGPメタタグを出力"
+
+msgid "Namespace"
+msgstr "名前空間"
+
+msgid "Not set mixi check key"
+msgstr "mixiチェックキーが設定されていません。"
+
+#: sharing-sources.php:91
+msgid "mixi check key"
+msgstr "mixiチェックキー"
+
+#: sharing-sources.php:93
+msgid "Save"
+msgstr "保存"
+
+#: sharing-sources.php:93
+msgid "Usage"
+msgstr "使い方"
+
+#. Description of the plugin/theme
+msgid "Sharing to mixi check."
+msgstr "mixiチェックで共有"
+
+#. Author of the plugin/theme
+msgid "nemooon"
+msgstr "nemooon"
+
